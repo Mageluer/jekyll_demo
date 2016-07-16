@@ -1,0 +1,10 @@
+---
+layout: default
+title: Hello World
+---
+
+##{{ page.title }}
+
+This is my first post.
+
+{{ page.date | date_to_string }}
