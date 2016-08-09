@@ -1,1 +1,37 @@
-baseurl: /jekyll_demo
+# Site settings
+title: Mageluer's Blog
+url: "https://mageluer.github.io/jekyll_demo/"
+baseurl: "/jekyll_demo"
+#timezone: Asia/Beijing
+description: >
+        the first trial
+
+#Information
+email: kissongg@gmail.com
+author: Mageluer
+avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
+profile: kai zo ku ni, o re wa na ru!
+#twitter_username: twitter_username
+#github_username:  github_username
+
+# Comment Service (Disqus or ∂‡Àµ)
+#  choose one and un-comment the line to active it
+#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
+#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/       
+
+permalink: /archivers/:title
+gems:
+ - jekyll-paginate
+ - jekyll-gist
+ - jemoji
+
+# Build settings
+paginate: 5
+paginate_path: "page:num"
+
+highlighter: rouge
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge        
