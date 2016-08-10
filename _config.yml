@@ -1,23 +1,23 @@
 # Site settings
-title: Mageluer's Blog
-url: "https://mageluer.github.io/jekyll_demo/"
-baseurl: "/jekyll_demo"
-#timezone: Asia/Beijing
+title: Another Blog
+url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "/jekyll-theme-EasyBook" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
+#timezone: Asia/Chongqing
 description: >
-        the first trial
+  One or more sentences introducing this blog.
 
-#Information
-email: kissongg@gmail.com
-author: Mageluer
+# Your information
+email: your_email@example.com
+author: your_name
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: kai zo ku ni, o re wa na ru!
+profile: One sentence introducing yourself.
 #twitter_username: twitter_username
 #github_username:  github_username
 
-# Comment Service (Disqus or ¶àËµ)
+# Comment Service (Disqus or å¤šè¯´)
 #  choose one and un-comment the line to active it
 #disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
-#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/       
+#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 permalink: /archivers/:title
 gems:
@@ -34,4 +34,4 @@ markdown: kramdown
 
 kramdown:
   input: GFM
-  syntax_highlighter: rouge        
+  syntax_highlighter: rouge
