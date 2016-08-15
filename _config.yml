@@ -5,8 +5,8 @@ email: kissongg@gmail.com
 description: "海贼王"
 
 #Serving
-baseurl: /jekyll-demo
-#url: "http://mageluer.github.io"
+baseurl: /jekyll_demo
+url: "http://mageluer.github.io"
 
 #Outputting
 permalink: none
