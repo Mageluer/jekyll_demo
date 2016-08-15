@@ -6,7 +6,7 @@ description: "海贼王"
 
 #Serving
 baseurl: /jekyll-demo
-url: "http://Mageluer.github.io"
+#url: "http://mageluer.github.io"
 
 #Outputting
 permalink: none
