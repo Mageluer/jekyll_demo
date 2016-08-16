@@ -1,0 +1,82 @@
+body{
+  background-color: #eee;
+}
+
+a.site-title{
+  font-size: xx-large;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #000;
+  text-decoration: none;
+}
+a.site-title:link,a.site-title:hover,a.site-title:visited{
+  text-decoration: none;
+  color: #ffffff;
+}
+
+nav.site-nav{
+  color: #fff;
+  border-top-color: #fff;
+  font-size: normal;
+  font-weight: lighter;
+}
+
+header{
+  background: #000;
+  font-family: Verdana, Geneva, Arial, sans-serif;
+  margin: 0px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-weight: lighter;
+  text-align: center;
+  color: #fff;
+}
+
+div.col-box{
+  background-color: #333;
+  padding: 40px;
+  border: 2px solid #999999;
+  font-family: Verdana, Geneva, Arial, sans-serif;
+  font-weight: lighter;
+  color: #fff;
+}
+
+div.col-box a:link{
+  color: #ccc;
+}
+
+div.col-box a:hover{
+  color: #fff;
+  text-decoration: none;
+}
+
+div.col-box a:visited{
+  color: #fcc;
+  text-decoration: none;
+}
+
+div.col-main{
+  width: 800px;
+  float: left;
+  font-family: Verdana, Geneva, Arial, sans-serif;
+  background-color: #cccccc;
+  padding: 80px;
+  border: 2px solid #abcdef;
+}
+
+div.col-second{
+  margin-left: 1000px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+footer{
+  background: #000;
+  font-family: Verdana, Geneva, Arial, sans-serif;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #ffffff;
+  clear: left;
+}
+
