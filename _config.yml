@@ -9,4 +9,9 @@ baseurl: /jekyll_demo
 url: "http://mageluer.github.io"
 
 #Outputting
-permalink: none
+
+#Pagination
+paginate: 5
+
+gems:
+  [jekyll-paginate]
