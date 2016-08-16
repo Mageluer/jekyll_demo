@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "bu gao xing"
+title: 没头脑和不高兴
 categories: unhappy
 ---
 # 不高兴

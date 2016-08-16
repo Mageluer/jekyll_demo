@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yang dan & Yin dan"
+title: 阳丹诀和阴丹诀
 author: 子美
 categories: yangsheng
 ---

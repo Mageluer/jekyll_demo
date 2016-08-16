@@ -1,7 +1,7 @@
 ---
 layout: post
 author: 苏轼
-title: "ji yang huang zhong"
+title: 记养黄中
 categories: yangshen
 ---
 

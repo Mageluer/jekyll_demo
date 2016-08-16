@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qu yu"
+title: 养生难在去欲
 author: 东坡
 categories: yangsheng
 ---

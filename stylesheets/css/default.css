@@ -1,5 +1,8 @@
 body{
   background-color: #eee;
+  width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a.site-title{
@@ -9,9 +12,13 @@ a.site-title{
   background-color: #000;
   text-decoration: none;
 }
-a.site-title:link,a.site-title:hover,a.site-title:visited{
+a.site-title:link,a.site-title:visited{
   text-decoration: none;
   color: #ffffff;
+}
+a.site-title:hover{
+  text-decoration: none;
+  color: #ccc;
 }
 
 nav.site-nav{
@@ -62,12 +69,13 @@ div.col-main{
   background-color: #cccccc;
   padding: 80px;
   border: 2px solid #abcdef;
+  overflow: hidden;
 }
 
 div.col-second{
-  margin-left: 1000px;
+  margin-left: 950px;
   padding-left: 50px;
-  padding-right: 50px;
+  padding-right: 0px;
 }
 
 footer{

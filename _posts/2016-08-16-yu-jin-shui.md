@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "yu jing shui"
+title: 论雨井水
 author: 和仲
 categories: yangsheng
 ---
